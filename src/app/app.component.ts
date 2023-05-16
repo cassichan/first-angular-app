@@ -9,7 +9,7 @@ import { HomeComponent } from './home/home.component';
   template: `
     <main>
       <a [routerLink]="['/']"
-        >]
+        >
         <header class="brand-name">
           <img
             class="brand-logo"
